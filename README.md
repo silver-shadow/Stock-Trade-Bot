@@ -1,1 +1,2 @@
 # Stock-Trade-Bot
+This project aims to create an intelligent stock trading bot that can assist users in making informed investment decisions. In its initial stages, the bot serves as a powerful stock screener, helping you filter through vast amounts of data to identify potential trading opportunities.
